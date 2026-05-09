@@ -54,7 +54,7 @@ novacart/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/novacart.git
+git clone (https://github.com/Khushi25131/novacart.git)
 cd novacart
 ```
 
@@ -67,16 +67,6 @@ cd server
 npm install
 npm run dev
 ```
-
-Create `.env` file:
-
-```env
-PORT=5000
-MONGO_URI=your_mongodb_uri
-JWT_SECRET=your_secret_key
-```
-
----
 
 # Frontend Setup
 
